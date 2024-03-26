@@ -1,0 +1,48 @@
+{
+	"schemaVersion": 1,
+	"id": "bliss",
+	"version": "Beta",
+	"name": "Bliss",
+	"description": "Bliss 1.20",
+	"authors": [
+		"Nat",
+		"Sqlnt",
+		"Frog",
+		"Zeyhu",
+		"Soepicc"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/bliss/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.bliss.Bliss"
+		],
+		"client": [
+          "dev.bliss.client.Client"
+		],
+		"fabric-datagen": [
+			"dev.bliss.BlissDataGenerator"
+		]
+	},
+	"mixins": [
+		"bliss.mixins.json",
+		{
+			"config": "bliss.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

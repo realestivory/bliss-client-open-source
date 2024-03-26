@@ -15,7 +15,7 @@ even tho this is like oldgen (as they say) I doubt they dont stop skid
 - 2008 Java Code
 - Improper class naming
 - Using lombok just for 3 annotations 💀💀💀
-- Find more by looking at the src!
+- Find more by looking at the src
 
 
 

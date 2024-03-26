@@ -2,6 +2,7 @@
 # Bliss Client Open Source
 
 even tho this is like oldgen (as they say) I doubt they dont stop skid
+- bots think pasting opengl is ok 🤣
 ![App Screenshot](https://hdanime.org/cipher/privatedontdeletepls/xaxa.png)
 
 

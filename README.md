@@ -23,7 +23,7 @@ even tho this is like oldgen (as they say) I doubt they dont stop skid
 
 ## Support
 
-For any questions HMU at jungao1987 or chinese_nigga on discord.
+For any questions HMU at jungao1987 or fortnitelord9696 on discord.
 
 
 ## License
